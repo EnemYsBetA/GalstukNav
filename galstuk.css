@@ -486,10 +486,10 @@ header nav a:hover{
 
 @keyframes 'anime' {
 	from {
-		transform: scale(1) rotate(45deg);
+		transform: scale(1) rotate(0deg);
 	}
 	to {
-		transform: scale(1.1) rotate(45deg);
+		transform: scale(1.1) rotate(0deg);
 	}
 }
 
